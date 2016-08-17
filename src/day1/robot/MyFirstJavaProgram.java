@@ -7,16 +7,309 @@ public class MyFirstJavaProgram {
 
 		// START HERE
 		Robot jeff = new Robot();
-		int x;
-		int y;
+		jeff.hide();
 		jeff.penDown();
+		jeff.setPenWidth(10);
 		jeff.setSpeed(10000);
 
-		for (int i = 0; i < 1000000; i++) {
-			jeff.turn(1);
-			jeff.move(1);
-			jeff.turn(3);
-		}
+		for (int a = 0; a < 360 / 6; a++) {
 
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+		for (int a = 0; a < 360 / 6; a++) {
+
+			jeff.turn(6);
+			jeff.move(6);
+			jeff.setRandomPenColor();
+		}
+		jeff.turn(10);
+
+		jeff.turn(6);
+		jeff.move(6);
+		jeff.setRandomPenColor();
 	}
+
 }
